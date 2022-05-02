@@ -1,5 +1,5 @@
 (1) Como compilar y ejecutar tarea.
-VisualStudio: gcc -g main.c hashmap.c list.c -o tarea
+VisualStudio: gcc -g main.c hashmap.c list.c funciones.c -o tarea
        Luego: ./tarea.exe
 Replit: RUN.
 
